@@ -156,7 +156,7 @@ Agenda una consulta de 30 minutos con nuestros expertos:
 
 ## 📄 **Licencia**
 
-© 2024-2025 AETHERYON Systems | Agraound. Todos los derechos reservados.
+© 2024-2030 AETHERYON Systems | Agraound. Todos los derechos reservados.
 
 Este software y documentación son propiedad intelectual de AETHERYON Systems. Prohibida la reproducción, distribución o uso sin autorización expresa.
 
