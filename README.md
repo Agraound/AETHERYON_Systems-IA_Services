@@ -1,6 +1,6 @@
-https://agraound.github.io/AETHERYON_Systems/
+https://openaeth.github.io/AETHERYON_Systems/
 
-https://agraound.github.io/AETHERYON_Systems-IA_Services/
+https://openaeth.github.io/AETHERYON_Systems-IA_Services/
 
 # AETHERYON Systems - AI Compute Infrastructure
 ![AETHERYON Systems](https://img.shields.io/badge/AI-Compute_Infrastructure-blueviolet)
